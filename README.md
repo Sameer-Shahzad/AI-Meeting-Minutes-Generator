@@ -29,4 +29,5 @@ An end-to-end AI product that automates the process of transcribing meeting audi
 To run this project locally or in Google Colab, you need to set up the following environment variable:
 
 ```text
-GROQ_API_KEY=your_groq_api_key_here
+GROQ_API_KEY="your_groq_api_key_here"
+HuggingFace="your_huggingface_token_here"

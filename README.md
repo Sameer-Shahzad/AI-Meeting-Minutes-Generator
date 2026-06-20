@@ -30,4 +30,4 @@ To run this project locally or in Google Colab, you need to set up the following
 
 ```text
 GROQ_API_KEY=your_groq_api_key_here
-HF_TOKEN="your_huggingface_token_here"
+HuggingFace="your_huggingface_token_here"
